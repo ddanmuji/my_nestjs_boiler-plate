@@ -1,8 +1,8 @@
-# 🧑🏻‍💻 my_nextjs_boiler-plate
+# 🧑🏻‍💻 my_nestjs_boiler-plate
 
-nextjs 초기 환경 세팅
+nestjs 초기 환경 세팅
 
-- nextjs
+- nestjs
 - typescript
 - commitlint
 - eslint & prettier
